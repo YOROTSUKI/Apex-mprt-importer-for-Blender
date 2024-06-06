@@ -26,7 +26,7 @@ hu = Health update
 8. When the map is imported it will be very large, increase the view clip distance and zoom out to see map.
 9.  Enjoy.
 
-[Video Tutorial here](https://drive.google.com/file/d/1ApByE0p5MzVV95dUsQ0seciCA7Cl5WFZ/view?usp=sharing)(scraped, I will make a new video when I have time.)
+[Video Tutorial here](https://drive.google.com/file/d/1ApByE0p5MzVV95dUsQ0seciCA7Cl5WFZ/view?usp=sharing)(Scrapped, I will make a new video when I have time.)
 
 
 ![e02234fb1e88a9750a59ed33656547f5](https://user-images.githubusercontent.com/38115052/143941621-03ecee92-d015-4133-9c09-cf6014160c9c.png)
