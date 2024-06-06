@@ -17,6 +17,7 @@ hu = Health update
 
 # Usage(Since S21):
 1. Use a RSX to extract the map BSP and all corresponsing bsp_lump files from `*_client_term.rpak` and `*_client_perm.rpak`. (RSX:[Titanfall_VPKTool](https://github.com/r-ex/rsx/releases))
+   1).Put [rename_bsp_file.bat](https://github.com/YOROTSUKI/Apex-mprt-importer-for-Blender/blob/main/rename_bsp_file.bat) into RSX folder and execute this bat file(double click).
 2. With model type set to cast, open all the main rpaks simulateously with [Legion+](https://github.com/r-ex/LegionPlus/releases/tag/nightly)
 3. Then press load a second time and load BSP. It will auto export the BSP mesh, necessary models and generate a mprt file.
 4. Install the Apex mprt importer (and Cast addon if you don't already have it), the UI is in the viewport sidebar.
